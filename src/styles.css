@@ -16,7 +16,7 @@ body {
 }
 
 .footer {
-  height: 49px;
+	height: 49px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
